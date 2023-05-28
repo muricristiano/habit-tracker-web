@@ -3,7 +3,8 @@
 vite (framework)
 react (library for user interface [frontend])
 
-Packages:
+PACKAGES:
+========
 
 vite
 > npm create vite@latest 
@@ -12,8 +13,15 @@ Ferramenta para criar a aplicação front-end utilizando um template que traz pr
 > npm install (Para instalar todas as dependências)
 > npm run dev (Já executável, como ponto de partida)
 
+### phosphor-react
+react icons library
 
-Development Packages:
+### dayjs
+library tools for dates
+
+
+DEV PACKAGES:
+=========
 
 tailwindcss - in-code css, trough class patterns. (plugin do postcss)
 
