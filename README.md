@@ -19,6 +19,14 @@ react icons library
 ### dayjs
 library tools for dates
 
+### @radix-ui/react-dialog
+>npm install @radix-ui/react-dialog
+>npm install @radix-ui/react-popover
+Library - Unstyled, accessible components for building high‑quality design systems and web apps in React. Here we are getting just react-dialog for now.
+
+### clsx
+Library to optimize creation of different conditions inside a class (Very good for Tailwindcss conditions)
+
 
 DEV PACKAGES:
 =========
