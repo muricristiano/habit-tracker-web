@@ -22,6 +22,7 @@ library tools for dates
 ### @radix-ui/react-dialog
 >npm install @radix-ui/react-dialog
 >npm install @radix-ui/react-popover
+>npm install @radix-ui/react-checkbox
 Library - Unstyled, accessible components for building high‑quality design systems and web apps in React. Here we are getting just react-dialog for now.
 
 ### clsx
