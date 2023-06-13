@@ -28,6 +28,18 @@ Library - Unstyled, accessible components for building high‑quality design sys
 ### clsx
 Library to optimize creation of different conditions inside a class (Very good for Tailwindcss conditions)
 
+### axios
+> npm i axios
+API connection: HTTP Request 
+speed the process and reduce the amount of code to make a http request from front-end to back-end 
+> Creation of /src/lib/axios.ts
+import axios from 'axios'
+export const api = axios.create({
+    baseURL: 'http://localhost:3333'
+})
+
+const to import to make the connections to the back-end
+
 
 DEV PACKAGES:
 =========
