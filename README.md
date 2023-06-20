@@ -38,7 +38,7 @@ export const api = axios.create({
     baseURL: 'http://localhost:3333'
 })
 
-const to import to make the connections to the back-end
+this const api serves to make the connections to the back-end
 
 
 DEV PACKAGES:
